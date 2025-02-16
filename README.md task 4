@@ -11,4 +11,5 @@ Calculate the filter coefficients: Use the chosen design method to calculate the
 Select the filter structure: Choose a filter structure, such as Cascade Form, Direct Form, or Transposed Form.
 Implement the filter: Implement the filter in hardware or software.
 Simulate the filter: Simulate the design to verify its performance.
+# output: 
 
